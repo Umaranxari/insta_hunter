@@ -1,0 +1,41 @@
+# Hunter_v7 Requirements
+# Core dependencies for advanced social media target acquisition
+
+# Web scraping and automation
+selenium>=4.15.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data manipulation and analysis
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Natural Language Processing
+nltk>=3.8.1
+textblob>=0.17.1
+
+# User interface and console output
+colorama>=0.4.6
+rich>=13.6.0
+
+# Configuration and file handling
+configparser
+
+# Email notifications
+secure-smtplib
+
+# Additional utilities
+python-dateutil>=2.8.2
+tqdm>=4.66.0
+pathlib2>=2.3.7
+
+# Optional AI/ML capabilities
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Proxy and network utilities
+requests[socks]>=2.31.0
+urllib3>=2.0.0
+
+# Image processing (optional)
+Pillow>=10.0.0
